@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there, I'm @ArliMoyao 👋
 
+- 📫 arli.moyao@gmail.com
+- 🌱 Building applications that makes communication easier
+- 👀 I love learning new languages! 🇰🇷🇫🇷
 <!--
 **ArliMoyao/ArliMoyao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
